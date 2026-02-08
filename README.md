@@ -1,9 +1,3 @@
-Here’s a clean, professional **README.md** tailored for an **Olympic Medal Data Analysis** project.
-
-You can create a file named `README.md` in the project root and paste this in.
-
----
-
 # 🏅 Olympic Medal Data Analysis
 
 A data analysis project that explores historical Olympic medal data to uncover patterns, trends, and insights across countries, sports, and years using Python and data science tools.
