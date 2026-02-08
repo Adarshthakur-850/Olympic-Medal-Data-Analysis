@@ -1,6 +1,5 @@
 # Olympic Medal Data Analysis
 
-An end-to-end data science project analyzing 120 years of Olympic history to understand performance trends and predict future medal counts.
 
 ## Project Structure
 ```
